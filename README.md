@@ -3,7 +3,7 @@
 <h3 align="center">💻 Master's student in Computer Science at Epitech Montpellier 💻</h3>
 
 <h3 align="center">
-🔍 Currently looking for an apprenticeship starting January 2026 and available immediately
+🔍 Currently looking for an apprenticeship starting in September 2026 and available immediately
 </h3>
 
 <p align="center">
