@@ -2,9 +2,6 @@
 
 <h3 align="center">💻 Master's student in Computer Science at Epitech Montpellier 💻</h3>
 
-<h3 align="center">
-🔍 Currently looking for an apprenticeship starting in September 2026 and available immediately
-</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victor34110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
